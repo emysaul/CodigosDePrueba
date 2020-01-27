@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Emy Saul Soto emysaul@hotmail.es</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/EmySaulIntec/TestWebServiceWsdl/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/EmySaulIntec/TestWebServiceWsdl.git</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>First version.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>WSDL Test Web Services</tags>
+  </metadata>
+</package>
